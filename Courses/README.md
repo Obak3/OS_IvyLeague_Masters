@@ -7,3 +7,13 @@ An example of how the two interact is Data Structures and Algorithms (The Founda
 2. How do I make that code 'readable' (How do I translate a math or CS concept into a proper application of the concept)?
 3. How do I organize the story?
 etc.
+
+---
+
+## Programming Courses
+
+One of the benefits of the courses that I've taken is showing how the foundations of programming apply to the development of your thought process instead of just your skill in a singular language. A better foundation allows you to pick up more languages in fewer times, allowing you to be more of an asset than if you're a master of one.
+> "A jack of all trades is a master of none, but oftentimes better than a (Java Developer ;) ) master of none"
+
+#### Current Courses:
+1. Introduction to Software Development
