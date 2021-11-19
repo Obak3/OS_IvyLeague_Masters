@@ -11,3 +11,6 @@ This is how you can find the pertinent resources for the classes in question and
 
 1. Course Name (Brings you to that directory within the repo.)
 2. README for the course in question
+
+
+#### Contribution Guidelines can be found here
