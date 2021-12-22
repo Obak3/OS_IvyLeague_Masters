@@ -44,3 +44,13 @@ _______
 	1. Data Analysis
 	2. Joining and Filtering Data
 	3. Open Source Libraries
+
+Week 7:
+_______
+	1. Introduction to Java
+	2. Configuring Java
+	3. Classes
+
+Week 8:
+_______
+	1. 
