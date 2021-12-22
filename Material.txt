@@ -27,7 +27,8 @@ ________
 	5. Being able to rely on python documentation
 	6. Sets DS
 	7. Sorting and Sorting algorithms
-	
-		
-	
 
+Week 4:
+________
+	1. Unit Testing
+	2. Using an IDE to test, etc.
