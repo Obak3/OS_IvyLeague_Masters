@@ -16,5 +16,18 @@ ________
 	3. Functions
 	4. Variable scope
 	5. The beginning of GIT
+
+Week 3:
+________
+	1. Setting up and IDE
+		- Why you need an IDE
+	2. What are some of the best choices of IDE's
+	3. More on lists!
+	4. Strings
+	5. Being able to rely on python documentation
+	6. Sets DS
+	7. Sorting and Sorting algorithms
+	
+		
 	
 
