@@ -75,3 +75,18 @@ ________
 	2. Constructors and Overriding methods
 	3. Access Modification
 	
+Week 12:
+_______
+	1. Abstract Classes
+	2. Interfaces
+
+Week 13:
+________
+	1. File I/O
+	2. Exceptions
+
+Week 14:
+_______
+	1. Collections
+	2. Maps
+	3. Regex
