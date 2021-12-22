@@ -57,3 +57,10 @@ _______
 	2. Testing for true equality
 	3. Arrays and Array Lists
  
+Week 9:
+_______
+	1. Static Variables
+	2. Static Methods
+	3. Examples
+
+
