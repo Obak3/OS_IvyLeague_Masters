@@ -32,3 +32,15 @@ Week 4:
 ________
 	1. Unit Testing
 	2. Using an IDE to test, etc.
+
+Week 5:
+_______
+	1. Dictionaries
+	2. Files and IO
+	3. Bigger picture idea of where Python fits into programming
+
+Week 6:
+_______
+	1. Data Analysis
+	2. Joining and Filtering Data
+	3. Open Source Libraries
