@@ -7,3 +7,14 @@ ________
         5. Variables
         6. Conditional Branching
         7. Catching Errors
+
+Week 2:
+________
+	1. DS Lists
+	2. Flow Control Loops
+		- for and while loops
+	3. Functions
+	4. Variable scope
+	5. The beginning of GIT
+	
+
