@@ -63,4 +63,15 @@ _______
 	2. Static Methods
 	3. Examples
 
+Week 10:
+________
+	1. Elements of OOP
+	2. Principles of OOP
+	3. Why OOP
 
+Week 11:
+________
+	1. Inheritance
+	2. Constructors and Overriding methods
+	3. Access Modification
+	
