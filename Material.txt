@@ -1,0 +1,9 @@
+Week 1:
+________
+        1. Intro to programming
+        2. Intro to Python
+        3. The Python Language
+        4. Python Scripts
+        5. Variables
+        6. Conditional Branching
+        7. Catching Errors
