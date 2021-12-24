@@ -3,7 +3,6 @@ This is the best way that I can give back right now, this is all of the material
 
 ## Courses *so far.....*
 1. Introduction to Software Development
-2. Mathematical Foundations of Computer Science
 
 
 ### Organization
