@@ -91,6 +91,31 @@ More examples and further explanation [Here](https://www.w3schools.com/python/py
 ## What do these look like in Python?
 
 ```Python
-# This is a comment
+# Integer example
+x = 17
+# Float
+y = 4.20
+# String
+string_example = "This is an example of a string."
+# This is an example of a List, also referred to as an Array
+list_example = ["This", "is", "an", "example"]
+
+'''
+Lists (and arrays, they're synonyms) are magical, 
+but we'll talk about those later.
+'''
 ```
 
+---
+
+## Where and how is Python used? 
+
+Literally everywhere!
+
+The language is incredibly extensive in its ability to be a jack of all trades, but some of those include:
+1. Scripting for personal automation
+2. Backend development (the mysterious engines behind the facade of a website that you use everyday)
+3. Machine Learning
+4. Artificial Intelligence
+
+These are just a couple of the uses, but as your mind starts to wonder, you'll see more.
