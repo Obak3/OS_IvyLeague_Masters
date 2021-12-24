@@ -34,9 +34,40 @@ else:
 ```
 
 Conditional branching is the concept that within your code that instructs the computer that is running your code to do something differently if that result is met. Examples of results can be comparing two numbers, if two variables are equal to eachother, etc.
----
 
+---
 ## Why Python
+
+People typically start out with Python because the syntax is not as obstructive to the learning itself in direct comparison to something like Java. Although Java has its merits for a language to begin with, this is a quick and dirty example as to why you may just want to stick to Python.
+
+**This is all of the code that you would need to 'Print' something out
+
+```Java
+/*
+ * This is the JAVA example....
+ */
+
+// Everything in Java has to be in a Class... we'll cover that later
+public class PrintExample{
+	// The main method... AGAIN, we will cover this later
+	public static void main(String args[]){
+		// Print it out
+		System.out.println("We're finally here! This is the print statement");
+	}
+}
+```
+
+If you want to know at a significantly more intimate level all of the other code for the Java example does: [More Resources](https://www.geeksforgeeks.org/system-out-println-in-java/?ref=lbp)
+
+```Python
+# This is the Python example!!
+
+# You call the print function and they pass in the text you want as a string.
+Print("Hello. see how much code this took?")
+```
+
+### More Rationale...
+The closer a language is to the user and the closer it is to written and spoken english, the easier it will be to wrap your head around the concept of programming. You see all that syntatic sugar that surrounds the desired output in Java and it can be discouraging.
 
 ---
 
