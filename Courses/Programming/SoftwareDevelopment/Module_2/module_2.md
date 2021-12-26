@@ -25,23 +25,51 @@ These are just some basic examples of lists, but we'll touch on some of the more
 ## Functions
 Functions are nothing more than blocks of code to better organization, reading, and performance. If you have a script that's over 100 lines of code, imagine how difficult that would be to read if you can't just quickly glance at an appropriately named function and quickly recognize what is does.
 
+The anatomy of a function:
+1. 'def': How you declare the following code will be a function
+2. Parentheses: Things contained within the parameters of the function are what the function requires as inputs. If there's nothing between them, then the function doesn't require any parameters.
+3. Indentation: Python is very specific on the spacing, so all code within that indent is what's contained within the function. Anything within the function will be within an indentation just after the line that the function is defined. I put in an example of what isn't contained within an example below. 
+4. Return: The return statement is a little tricky for some to understand, but I promise whenever you go to actually write the code you want, it'll click. I'll also attach ample examples below
+
+Keep in mind that functions have to be called in order to actually do anything. Below you'll see me create a function, 'your_first_function', and then call the function in order to execute the code contained within in
+
 ### Examples
+
+**Calling a function and the basic anatomy**
 ```Python
-# Creating your OWN function
+'''
+def: Telling Python this is the start of a function
+your_first_function: The name of the function
+(): The function takes in no parameters
+(no) return: The function doesn't return anything
+'''
+
 def your_first_function():
 	# Print out the message
 	# This is 'inside the function'
 	print("This is the first function I wrote!")
-	
+
+# Like I said, this is outside of the function 'your_first_function'
 print("This is outside the function")
 	
 # In order to 'execute', you have to first call the function.
 your_first_function()
-
-'''
-The anatomy of a function:
-	1. 'def': How you declare the following code will be a function
-	2. Indentation: Python is very specific on the spacing, so all code within that indent is what's contained within the function. 
-'''
 ```
 
+**Creating a function with parameters and a return statement to do some calculations**
+```Python
+# Create two integers for parameters
+x = 5 # If you want two vars as the same value you can also do x, y = 5
+y = 10
+
+def add_two_variables(x, y):
+	z = x + y
+	return z
+
+result = add_two_variables(5, 10)
+
+
+
+# Create the function
+
+```
