@@ -81,3 +81,31 @@ Don't worry, there will be tons of practice in the 'Assignment' that's in the mo
 Here's a couple great videos for supplementary materials:
 1. [Former Google Engineer teaches functions](https://www.youtube.com/watch?v=NSbOtYzIQI0&t=2s)
 2. [Great Overall Tutorial on Functions](https://www.youtube.com/watch?v=9Os0o3wzS_I&t=498s)
+
+---
+
+## Variable Scope
+**Scope** for a variable is the concept of where variables exist within the project itself. Without getting far too technical below are a couple examples with code comments that make sure to highlight exactly what I'm talking about.
+
+```Python
+# These three GLOBAL variables can be used by ALL functions.
+my_name = "Kyle"
+my_school = "UPenn"
+my_age = 22
+
+# We define a function and create some variables within the function itself
+def global_or_local_example(my_name, my_school, my_age):
+	# Create a LOCAL variable for age
+	next_year_age = my_age + 1
+	# Print out a message
+	print(my_name + "goes to" + my_school + "and next year, I'll be"
+		  + next_year_age)
+
+# Call the function with the three global variables
+global_or_local_example(my_name, my_school, my_age)
+
+'''
+If you wanted to take name, school, and age and manipulate them further in other functions, you could. This is because they are global variables. It becomes different whenever you want to take 'next_year_age' out of the scope of the function, 'global or local...', it's contained within because it's local to that function. Below describes some ways of dealing with this.
+'''
+```
+
