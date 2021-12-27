@@ -62,14 +62,22 @@ your_first_function()
 x = 5 # If you want two vars as the same value you can also do x, y = 5
 y = 10
 
+# Create the function, 'add_two_variables'
 def add_two_variables(x, y):
+	# Add the x and y paramaters and set it to 'z'
 	z = x + y
+	# Return the value of the operation
 	return z
 
+# Set a variable result as the result of calling the function with the params
 result = add_two_variables(5, 10)
 
-
-
-# Create the function
-
+# Print out the result
+print(result)
 ```
+
+Don't worry, there will be tons of practice in the 'Assignment' that's in the module!
+
+Here's a couple great videos for supplementary materials:
+1. [Former Google Engineer teaches functions](https://www.youtube.com/watch?v=NSbOtYzIQI0&t=2s)
+2. [Great Overall Tutorial on Functions](https://www.youtube.com/watch?v=9Os0o3wzS_I&t=498s)
