@@ -12,4 +12,4 @@ This is how you can find the pertinent resources for the classes in question and
 2. README for the course in question
 
 
-#### Contribution Guidelines can be found here
+#### Contribution Guidelines can be found [here](https://github.com/Obak3/OS_IvyLeague_Masters/blob/main/ContributionGuidelines.md)
