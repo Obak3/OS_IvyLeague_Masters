@@ -1,10 +1,13 @@
 # Why put guidelines in place?
 
-There's an organization to the Repo, so we'll try to keep things consistent by keeping the strucuture of the repo consistent across all of the changes and any other potential courses that are made. If you haven't seen other repos and you're newer to open source and coming from a self-taught background, these are pretty common, see something like DOOM EMACS for a reference [on how other repositories handle pull requests](https://github.com/hlissner/doom-emacs/blob/develop/docs/contributing.org).
+There's an organization to the Repo, so we'll try to keep things consistent by keeping the strucuture of the repo consistent across all of the changes and any other potential courses that are made. If you haven't seen other repos and you're newer to open source and coming from a self-taught background, these are pretty common, see something like DOOM Emacs for a reference [on how other repositories handle pull requests](https://github.com/hlissner/doom-emacs/blob/develop/docs/contributing.org).
 
 ---
 
 ## Contribution Check List
+- [ ] Course Name
+- [ ] README for the course
+- [ ] Structure for the course broken into weeks and modules
 
 
 ### Contributing a Coursea
