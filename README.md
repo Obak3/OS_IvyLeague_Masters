@@ -1,5 +1,5 @@
 # OS_IvyLeague_Masters
-This is the best way that I can give back right now, this is all of the materials that I have covered so far in the first semester at my Master's designed for people with no formal background in Computer Science. My undergraduate degree is not in Computer Science and I wanted a stronger foundation to build the next steps of my career off of, so here we are.
+This is the best way that I can give back right now, this is all of the materials that I have covered so far in the first semester at my Master's designed for people with no formal background in Computer Science. My undergraduate degree is not in Computer Science and I wanted a stronger foundation to build the next steps of my career off of, so here we are...
 
 ## Courses *so far.....*
 1. [Introduction to Software Development](https://github.com/Obak3/OS_IvyLeague_Masters/tree/Course/Intro_To_Software_Dev/Courses/Programming/SoftwareDevelopment)
@@ -13,3 +13,5 @@ This is how you can find the pertinent resources for the classes in question and
 
 
 #### Contribution Guidelines can be found [here](https://github.com/Obak3/OS_IvyLeague_Masters/blob/main/ContributionGuidelines.md)
+
+Update: I work at Adobe now
