@@ -13,5 +13,3 @@ This is how you can find the pertinent resources for the classes in question and
 
 
 #### Contribution Guidelines can be found [here](https://github.com/Obak3/OS_IvyLeague_Masters/blob/main/ContributionGuidelines.md)
-
-Update: I work at Adobe now
